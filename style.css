@@ -6,7 +6,7 @@
 
 body {
     font-family: "Montserrat";
-    background: url("../images/background.jpg") no-repeat center/cover;
+    background: url("background.jpg") no-repeat center/cover;
     height: 100vh;
     width: 100%;
 }
